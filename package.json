@@ -1,0 +1,12 @@
+{
+  "name": "generic-compose",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:arielhs/generic-compose.git",
+  "author": "Ariel HS <ariel@jadendigital.com.au>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
