@@ -1,7 +1,7 @@
 import { giganticGenericFunction } from './giganticGenericFunction'
 
 /*
-Our goal here would be to create a generic compose function that has the same interface as giganticGenericFunction,
+Our goal here would be to create a function that has the same interface as giganticGenericFunction,
 but lets us modify its return type.
 
 This defines a function that lets us pass some giganticGenericFunction (e.g. a function imported from a library) in, 
